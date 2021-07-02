@@ -5,4 +5,4 @@ Git is a free software
 Git 有一个stage概念
 通过git add xxx 会将文件提交到暂存区里面去
 Git 追踪的是修改而不是文件
-胡话
+这是一个远程库版本了
