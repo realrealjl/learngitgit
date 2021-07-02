@@ -4,3 +4,4 @@ Git is a free software
 又是一行新的
 Git 有一个stage概念
 通过git add xxx 会将文件提交到暂存区里面去
+Git 追踪的是修改而不是文件
